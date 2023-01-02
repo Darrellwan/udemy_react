@@ -7,4 +7,3 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // <App /> is the JSX => JavaScript Xml
 root.render(<App />);
 
-
